@@ -1,12 +1,3 @@
-Aquí tienes algunas sugerencias para mejorar el HTML y hacerlo más especial para Rosa María:
-
-1. **Usar una fuente más elegante:** Puedes usar Google Fonts para agregar una fuente que se vea más especial.
-2. **Incluir una imagen:** Una imagen de cumpleaños o algo que le guste a Rosa María.
-3. **Agregar más colores y decoraciones:** Utilizar más colores y decoraciones para hacer la página más festiva.
-
-Aquí tienes el HTML mejorado:
-
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -65,6 +56,3 @@ Aquí tienes el HTML mejorado:
     </div>
 </body>
 </html>
-```
-
-Reemplaza `https://example.com/imagen-de-cumpleanos.jpg` con la URL de la imagen que desees utilizar.
