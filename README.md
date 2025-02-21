@@ -58,7 +58,7 @@ Aquí tienes el HTML mejorado:
 <body>
     <div class="container">
         <h1>¡Feliz Cumpleaños Rosa María!</h1>
-        <img src="https://example.com/imagen-de-cumpleanos.jpg" alt="Feliz Cumpleaños">
+        <img src="https://static.vecteezy.com/system/resources/previews/018/872/667/non_2x/happy-birthday-feliz-cumpleanos-lettering-in-spanish-vector.jpg" alt="Feliz Cumpleaños">
         <p>Felizmente ha llegado un día sumamente especial, el día de tu Natalicio. Hoy celebramos que hayas llegado a este mundo, un mundo en el cual has llenado de felicidad, amabilidad y buena vibra.</p>
         <p>Disfruta de tu regalo Rosa María!</p>
         <a href="https://pa.pandora.net/es/">Ir a Pandora</a>
