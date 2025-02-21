@@ -1,12 +1,4 @@
-Aquí tienes algunas sugerencias para mejorar el HTML y hacerlo más especial para Rosa María:
 
-1. **Usar una fuente más elegante:** Puedes usar Google Fonts para agregar una fuente que se vea más especial.
-2. **Incluir una imagen:** Una imagen de cumpleaños o algo que le guste a Rosa María.
-3. **Agregar más colores y decoraciones:** Utilizar más colores y decoraciones para hacer la página más festiva.
-
-Aquí tienes el HTML mejorado:
-
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -58,13 +50,10 @@ Aquí tienes el HTML mejorado:
 <body>
     <div class="container">
         <h1>¡Feliz Cumpleaños Rosa María!</h1>
-        <img src="https://example.com/imagen-de-cumpleanos.jpg" alt="Feliz Cumpleaños">
+        <img src="https://example.com/imagen-de-cumpleanos.jpg" alt="Feliz Cumpleaños.png">
         <p>Felizmente ha llegado un día sumamente especial, el día de tu Natalicio. Hoy celebramos que hayas llegado a este mundo, un mundo en el cual has llenado de felicidad, amabilidad y buena vibra.</p>
         <p>Disfruta de tu regalo Rosa María!</p>
         <a href="https://pa.pandora.net/es/">Ir a Pandora</a>
     </div>
 </body>
 </html>
-```
-
-Reemplaza `https://example.com/imagen-de-cumpleanos.jpg` con la URL de la imagen que desees utilizar.
